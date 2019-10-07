@@ -21,6 +21,9 @@
 - 1_笔试资料
     - Hibernate常见笔试题_csdn_sty945.pdf
     - 银行笔试-计算机知识部分_csdn_sty945.pdf
+- 2_其他
+    - 解决北京户口企业合集_csdn_sty945.pdf
+
 
 
 # 银行校招经验分享
