@@ -13,7 +13,7 @@
 
 **如果想了解如何使用这份笔试资料及更多的面试经验分享，可以微信扫描下面的二维码**，直达网页：
 
-![image](./img/gitchat.png)
+![二维码](https://img-blog.csdnimg.cn/20191011105846328.png)
 
 
 # 目录结构
@@ -74,8 +74,4 @@
 [我如何在 19 年校招中获得 15 家知名公司的 offer](https://gitbook.cn/gitchat/activity/5d89b272ba2e817ead164ada) 
 
 (ps：近2万字的干货文章，绝对值得你看看)
-
-
-
-
 
