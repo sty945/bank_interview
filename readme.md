@@ -32,7 +32,7 @@
 
 
 # 银行校招经验分享
-- 牛客网过万阅读量近500收藏热门经验贴：[拿了6家银行信息岗offer的一些经验](https://www.nowcoder.com/discuss/279368)
+- 牛客网2万+阅读量、收藏800+热门经验贴：[拿了6家银行信息岗offer的一些经验](https://www.nowcoder.com/discuss/279368)
 - CSDN：[中国交通银行总行软件开发中心拿offer流程](https://blog.csdn.net/sty945/article/details/101347777)
 - CSDN：[中信银行总行信息科技部笔试面试以及最后拿offer经历](https://blog.csdn.net/sty945/article/details/101347561)
 
