@@ -13,7 +13,7 @@
 
 **如果想了解如何使用这份笔试资料及更多的面试经验分享，可以微信扫描下面的二维码**，直达网页：
 
-![二维码](https://img-blog.csdnimg.cn/20191011105846328.png)
+![二维码](https://pic2.zhimg.com/80/v2-ffcfe92ec379cddb6d2385afdd021b3d_720w.jpg)
 
 
 # 目录结构
