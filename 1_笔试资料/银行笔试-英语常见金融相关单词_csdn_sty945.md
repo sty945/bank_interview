@@ -1,203 +1,203 @@
-a banding machine 自动存取机
-account number 帐号
-account number 帐目编号
-a deposit form 存款单
-adverse balance 逆差
-advising bank, notifying bank 通知银行
-an application form 申请单
-an exchange form 兑换单
-associate banker of collection 代收银行
-a withdrawal form 取款单
-bad debts 坏帐
-Bandar's note 庄票，银票
-banker 银行家
-banking hours, business hours 营业时间
-bank note 钞票
-bank of communications 交通银行
-bank of issue, bank of circulation 发行币银行
-bank statement 对帐单
-Banque de I'IndoChine 东方汇理银行
-bearer cheque 不记名支票
-blank cheque 空白支票
-bookkeeper 簿记员
-bookkeeping 簿记
-branch bank 银行分行
-broker 经纪人
-business accounting 商业会计
-buying rate 买进价格
-canceled cheque 已付支票
-cash account 现金帐
-cash book 现金出纳帐
-cash cheque 现金支票
-central bank, national bank, banker's bank 中央银行
-certificate of deposit 存单
-Chartered Bank of India, Australia and China 麦加利银行
-chartered bank 特许银行
-Chase Bank 大通银行
-cheque book 支票本
-cheque,check 支票
-cheque for transfer 转帐支票
-cheque stub, counterfoil 票根
-Citibank  花旗银行
-Citibank 花旗银行
-clearing bank 清算银行
-clearing house 票据交换所
-commercial bank 商业银行，储蓄信贷银行
-commercial credit company(discount company) 商业信贷公司(贴现公司)
-commission 佣金
-compound interest 复利
-computerized accounting 电脑化会计
-confirming bank 保兑银行
-consigned banker of collection 委托银行
-construction bank 建设银行
-conversion rate 折合率
-convertible money 可兑换(黄金)纸币
-convertible money 可兑换（黄金）纸币
-corresponding bank 往来银行
-cost accounting 成本会计
-credit bureau 商业兴信所
-credit card 信用卡
-credit cooperatives 信用社
-credit department 银行的信用部
-credit union 合作银行
-crossed cheque 横线支票
-cross rate, arbitrage rate 套汇汇率
-currency, money 货币
-current deposit, current account 活期存款
-debenture 债券
-debt chain 债务链
-deflation 通货收缩
-deposit book, passbook 存折
-depositor 存户
-deposit receipt 存款收据
-depreciation accounting 折旧会计
-deva luation 货币贬值
-devaluation 货币贬值
-direct exchange 直接(对角)套汇
-direct exchange 直接（对角）套汇
-discount bank 贴现银行
-discount rate, bank rate 贴现率
-discount 贴现
-domestic bank 国内银行
-drawing-out slip 取款单
-economic boom 经济繁荣
-economic crisis 经济危机
-economic cycle 经济周期
-economic depression 经济萧条
-economic recession 经济衰退
-economic recovery 经济复苏
-endorser 背书人
-equitable tax system 等价税则
-exchange bank 汇兑银行
-exchange rate 外汇率
-exchange table, conversion table 汇兑换算表
-favourable balance 顺差
-financial trust 金融信托公司
-fixed deposit by installments 零存整取
-fixed deposit, fixed account 定期存款
-foreign currency (exchange) reserve 外汇储备
-foreign exchange crisis 外汇危机
-foreign exchange fluctuation 外汇波动
-foreign exchange quotations 外汇行情
-foreign exchange restriction 外汇限额
-foreign exchange 外汇
-forged cheque 伪支票
-general ledger 总帐
-gold reserve 黄金储备
-hard currency 硬通货
-home loan bank 家宅贷款银行
-Hongkong Shanghai Banking Corporation 汇丰银行
-idle capital 游资
-import and export bank (EXIMBANK) 进出口银行
-indirect exchange 间接(三角)套汇
-indirect exchange 间接（三角）套汇
-industrial and commercial bank 工商银行
-industrial bank 实业银行
-inflation 通货膨胀
-interest rate 利率
-international balance of payment 国际收支
-international monetary system 国际货币制度
-investment bank 投资银行
-investment 投资
-issuing bank, opening bank 开证银行
-joint account 存款帐户
-joint venture bank 合资银行
-journal, day-book 日记帐，流水帐
-land bank 土地银行
-legal interest 法定利息
-lending rate 贷款利率
-letter of credit 信用证
-local bank 本地银行
-member bank, credit bank 储蓄信贷银行
-member bank, credit bank 储蓄信贷银行
-merchant bank, accepting bank 承兑银行
-money changing 兑换货币
-money (financial) market 金融市场
-money in circulation 货币流通量
-money shop, native bank 钱庄
-mortgage bank, building society 抵押银行
-mutual savings bank 互助储蓄银行
-national budget 国家预算
-national gross product 国民生产总值
-negotiation bank 议付银行
-neighborhood savings bank, bank of deposit 街道储蓄所
-nickel piece 镍币
-note issue 纸币发行量
-note of large denomination 大票
-note of small denomination 小票
-order cheque 记名支票
-outstanding cheque 未付支票
-overdraft, overdraw 透支
-overseas bank 国外银行
-payable interest 应付利息
-paying bank 付款银行
-pay-in slip 存款单
-plastic currency notes 塑料钞票
-post office savings bank 邮局储蓄银行
-president 行长
-prime rate 优待利率
-principal 本金
-private deposits 私人存款
-public accounting 公共会计
-public bond 公债
-requesting bank 委托开证银行
-reserve bank 准备银行
-reva luation 货币增值
-revaluation 货币增值
-rubber cheque 空头支票
-savings bank 储蓄银行
-self-service bank 无人银行
-selling rate 卖出价格
-small change 零钱
-soft currency 软通货
-specimen signature 签字式样
-stock exchange 股票交易所
-stock, share 股票
-strong room, vault 保险库
-subsidiary ledger 分户帐
-subsidiary money 辅币
-surplus 结余
-teller, cashier 出纳员
-the number slip 号码牌
-the purchasing power of money 货币购买力
-the subsidy rate for value-preserved savings 保值储蓄补贴率
-to cash 兑现
-to check the rate for sb. 查牌价
-to close an account, to clear an account 结清
-to counter sign 双签
-to deposit 存款
-to dishonor a cheque 拒付
-to draw money 取款
-to endorse 背书
-to fill in the receipt in duplicate 一式两份填这张收据
-to honor a cheque 兑付
-to open an account 开户头
-to suspend payment 止付
-traveler's cheque 旅行支票
-treasury bill 国库券
-trust company 信托公司
-trustee savings bank 信托储蓄银行
-trust institution 银行的信托部
-unincorporated bank 钱庄
-unit trust 信托投资公司
-usury 高利贷
+- a banding machine 自动存取机
+- account number 帐号
+- account number 帐目编号
+- a deposit form 存款单
+- adverse balance 逆差
+- advising bank, notifying bank 通知银行
+- an application form 申请单
+- an exchange form 兑换单
+- associate banker of collection 代收银行
+- a withdrawal form 取款单
+- bad debts 坏帐
+- Bandar's note 庄票，银票
+- banker 银行家
+- banking hours, business hours 营业时间
+- bank note 钞票
+- bank of communications 交通银行
+- bank of issue, bank of circulation 发行币银行
+- bank statement 对帐单
+- Banque de I'IndoChine 东方汇理银行
+- bearer cheque 不记名支票
+- blank cheque 空白支票
+- bookkeeper 簿记员
+- bookkeeping 簿记
+- branch bank 银行分行
+- broker 经纪人
+- business accounting 商业会计
+- buying rate 买进价格
+- canceled cheque 已付支票
+- cash account 现金帐
+- cash book 现金出纳帐
+- cash cheque 现金支票
+- central bank, national bank, banker's bank 中央银行
+- certificate of deposit 存单
+- Chartered Bank of India, Australia and China 麦加利银行
+- chartered bank 特许银行
+- Chase Bank 大通银行
+- cheque book 支票本
+- cheque,check 支票
+- cheque for transfer 转帐支票
+- cheque stub, counterfoil 票根
+- Citibank  花旗银行
+- Citibank 花旗银行
+- clearing bank 清算银行
+- clearing house 票据交换所
+- commercial bank 商业银行，储蓄信贷银行
+- commercial credit company(discount company) 商业信贷公司(贴现公司)
+- commission 佣金
+- compound interest 复利
+- computerized accounting 电脑化会计
+- confirming bank 保兑银行
+- consigned banker of collection 委托银行
+- construction bank 建设银行
+- conversion rate 折合率
+- convertible money 可兑换(黄金)纸币
+- convertible money 可兑换（黄金）纸币
+- corresponding bank 往来银行
+- cost accounting 成本会计
+- credit bureau 商业兴信所
+- credit card 信用卡
+- credit cooperatives 信用社
+- credit department 银行的信用部
+- credit union 合作银行
+- crossed cheque 横线支票
+- cross rate, arbitrage rate 套汇汇率
+- currency, money 货币
+- current deposit, current account 活期存款
+- debenture 债券
+- debt chain 债务链
+- deflation 通货收缩
+- deposit book, passbook 存折
+- depositor 存户
+- deposit receipt 存款收据
+- depreciation accounting 折旧会计
+- deva luation 货币贬值
+- devaluation 货币贬值
+- direct exchange 直接(对角)套汇
+- direct exchange 直接（对角）套汇
+- discount bank 贴现银行
+- discount rate, bank rate 贴现率
+- discount 贴现
+- domestic bank 国内银行
+- drawing-out slip 取款单
+- economic boom 经济繁荣
+- economic crisis 经济危机
+- economic cycle 经济周期
+- economic depression 经济萧条
+- economic recession 经济衰退
+- economic recovery 经济复苏
+- endorser 背书人
+- equitable tax system 等价税则
+- exchange bank 汇兑银行
+- exchange rate 外汇率
+- exchange table, conversion table 汇兑换算表
+- favourable balance 顺差
+- financial trust 金融信托公司
+- fixed deposit by installments 零存整取
+- fixed deposit, fixed account 定期存款
+- foreign currency (exchange) reserve 外汇储备
+- foreign exchange crisis 外汇危机
+- foreign exchange fluctuation 外汇波动
+- foreign exchange quotations 外汇行情
+- foreign exchange restriction 外汇限额
+- foreign exchange 外汇
+- forged cheque 伪支票
+- general ledger 总帐
+- gold reserve 黄金储备
+- hard currency 硬通货
+- home loan bank 家宅贷款银行
+- Hongkong Shanghai Banking Corporation 汇丰银行
+- idle capital 游资
+- import and export bank (EXIMBANK) 进出口银行
+- indirect exchange 间接(三角)套汇
+- indirect exchange 间接（三角）套汇
+- industrial and commercial bank 工商银行
+- industrial bank 实业银行
+- inflation 通货膨胀
+- interest rate 利率
+- international balance of payment 国际收支
+- international monetary system 国际货币制度
+- investment bank 投资银行
+- investment 投资
+- issuing bank, opening bank 开证银行
+- joint account 存款帐户
+- joint venture bank 合资银行
+- journal, day-book 日记帐，流水帐
+- land bank 土地银行
+- legal interest 法定利息
+- lending rate 贷款利率
+- letter of credit 信用证
+- local bank 本地银行
+- member bank, credit bank 储蓄信贷银行
+- member bank, credit bank 储蓄信贷银行
+- merchant bank, accepting bank 承兑银行
+- money changing 兑换货币
+- money (financial) market 金融市场
+- money in circulation 货币流通量
+- money shop, native bank 钱庄
+- mortgage bank, building society 抵押银行
+- mutual savings bank 互助储蓄银行
+- national budget 国家预算
+- national gross product 国民生产总值
+- negotiation bank 议付银行
+- neighborhood savings bank, bank of deposit 街道储蓄所
+- nickel piece 镍币
+- note issue 纸币发行量
+- note of large denomination 大票
+- note of small denomination 小票
+- order cheque 记名支票
+- outstanding cheque 未付支票
+- overdraft, overdraw 透支
+- overseas bank 国外银行
+- payable interest 应付利息
+- paying bank 付款银行
+- pay-in slip 存款单
+- plastic currency notes 塑料钞票
+- post office savings bank 邮局储蓄银行
+- president 行长
+- prime rate 优待利率
+- principal 本金
+- private deposits 私人存款
+- public accounting 公共会计
+- public bond 公债
+- requesting bank 委托开证银行
+- reserve bank 准备银行
+- reva luation 货币增值
+- revaluation 货币增值
+- rubber cheque 空头支票
+- savings bank 储蓄银行
+- self-service bank 无人银行
+- selling rate 卖出价格
+- small change 零钱
+- soft currency 软通货
+- specimen signature 签字式样
+- stock exchange 股票交易所
+- stock, share 股票
+- strong room, vault 保险库
+- subsidiary ledger 分户帐
+- subsidiary money 辅币
+- surplus 结余
+- teller, cashier 出纳员
+- the number slip 号码牌
+- the purchasing power of money 货币购买力
+- the subsidy rate for value-preserved savings 保值储蓄补贴率
+- to cash 兑现
+- to check the rate for sb. 查牌价
+- to close an account, to clear an account 结清
+- to counter sign 双签
+- to deposit 存款
+- to dishonor a cheque 拒付
+- to draw money 取款
+- to endorse 背书
+- to fill in the receipt in duplicate 一式两份填这张收据
+- to honor a cheque 兑付
+- to open an account 开户头
+- to suspend payment 止付
+- traveler's cheque 旅行支票
+- treasury bill 国库券
+- trust company 信托公司
+- trustee savings bank 信托储蓄银行
+- trust institution 银行的信托部
+- unincorporated bank 钱庄
+- unit trust 信托投资公司
+- usury 高利贷
