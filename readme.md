@@ -29,7 +29,7 @@
     - 银行笔试-英语常见金融相关单词_csdn_sty945.md （2021.08.02 更新）
 - 2_其他
     - 解决北京户口企业合集_csdn_sty945.pdf
-    - 关于银行常见问题集锦_csdn_sty945.md
+    - [关于银行常见问题集锦_csdn_sty945.md](https://github.com/sty945/bank_interview/blob/master/2_%E5%85%B6%E4%BB%96/%E5%85%B3%E4%BA%8E%E9%93%B6%E8%A1%8C%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E9%9B%86%E9%94%A6_csdn_sty945.md)
 
 
 # 银行校招经验分享
