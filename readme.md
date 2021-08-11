@@ -26,7 +26,7 @@
     - Hibernate常见笔试题_csdn_sty945.pdf
     - 银行笔试-计算机知识部分_csdn_sty945.pdf
     - JAVA高频笔试题_csdn_sty945.pdf （2019.10.23 更新）
-    - 银行笔试-英语常见金融相关单词_csdn_sty945.md （2021.08.02 更新）
+    - [银行笔试-英语常见金融相关单词_csdn_sty945.md](https://github.com/sty945/bank_interview/blob/master/1_%E7%AC%94%E8%AF%95%E8%B5%84%E6%96%99/%E9%93%B6%E8%A1%8C%E7%AC%94%E8%AF%95-%E8%8B%B1%E8%AF%AD%E5%B8%B8%E8%A7%81%E9%87%91%E8%9E%8D%E7%9B%B8%E5%85%B3%E5%8D%95%E8%AF%8D_csdn_sty945.md) （2021.08.02 更新）
 - 2_其他
     - 解决北京户口企业合集_csdn_sty945.pdf
     - [关于银行常见问题集锦_csdn_sty945.md](https://github.com/sty945/bank_interview/blob/master/2_%E5%85%B6%E4%BB%96/%E5%85%B3%E4%BA%8E%E9%93%B6%E8%A1%8C%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E9%9B%86%E9%94%A6_csdn_sty945.md)
