@@ -48,6 +48,9 @@
 - 知乎干货：[6大国有银行校招笔试侧重点对比分析](https://zhuanlan.zhihu.com/p/235522890)
 - CSDN：[中国交通银行总行软件开发中心拿offer流程](https://blog.csdn.net/sty945/article/details/101347777)
 - CSDN：[中信银行总行信息科技部笔试面试以及最后拿offer经历](https://blog.csdn.net/sty945/article/details/101347561)
+- 知乎文章：[银行主要分类及基本待遇介绍 - 小小苏的文章](https://zhuanlan.zhihu.com/p/415648604)
+- 知乎文章：[网申是以什么作为通过标准的？如何提高网申的通过率呢？ - 小小苏的回答](https://www.zhihu.com/question/19932190/answer/2134968141)
+
 
 # 银行网申、笔试、面试全流程情况信息更新
 ## 交通银行笔试 (2019.11.06更)
