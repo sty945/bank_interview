@@ -174,6 +174,9 @@
 - 微信公众号文章更新(20220809)：第一篇：[银行招聘通关指南之银行架构及基本待遇介绍](https://mp.weixin.qq.com/s/1m_dyka6dXX2F_vndjiskw)
 - 微信公众号文章更新(20220826)：第二篇：[银行招聘通关指南之银行信息科技岗详细介绍](https://mp.weixin.qq.com/s/oumnYLS9IA8kMJ0VsVh3OQ)
 
+## 银行常见面试问题更新（20230425）
+- 增加若干银行面试常见问题，[地址](https://github.com/sty945/bank_interview/blob/master/2_%E5%85%B6%E4%BB%96/%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E9%9B%86%E9%94%A6.md)
+
 ## 欢迎加入银行秋招群
 
 - 不定时为大家解答一些银行秋招问题
